@@ -37,7 +37,7 @@ attributes, see \code{\link{RK}}, \code{\link{mu0K}}, etc\dots.
 \references{
 Fan, J. and Gijbels, I.
 \emph{ Local polynomial modelling and its applications\/}.
-Chapman \& Hall, London (1996).
+Chapman & Hall, London (1996).
 
 Wand, M.~P. and Jones, M.~C.
 \emph{ Kernel smoothing\/}.
