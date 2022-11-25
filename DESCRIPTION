@@ -1,9 +1,8 @@
 Package: locpol
-Version: 0.7-0
-Date: 2018-05-21
+Version: 0.8.0
 Title: Kernel Local Polynomial Regression
 Author: Jorge Luis Ojeda Cabrera <jojeda@unizar.es>
-Maintainer: Jorge Luis Ojeda Cabrera <jojeda@unizar.es>
+Maintainer: Bastiaan Quast <bquast@gmail.com>
 Description: Computes local polynomial estimators for 
   the regression and also density. It comprises several 
   different utilities to handle kernel estimators.
