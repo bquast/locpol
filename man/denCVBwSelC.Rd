@@ -35,7 +35,7 @@ Chapman and Hall Ltd., London (1995).
 }
 \author{ Jorge Luis Ojeda Cabrera. 
 }
-\seealso{ \code{\link{bw.nrd0}}, \code{\link{dpik}}.
+\seealso{ \code{\link{bw.nrd0}}, \code{\link[KernSmooth]{dpik}}.
 }
 \examples{
 stdy <- function(size=100,rVar=rnorm,dVar=dnorm,kernel=gaussK,x=NULL)
