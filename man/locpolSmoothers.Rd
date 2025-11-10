@@ -58,10 +58,6 @@ Wand, M.~P. and Jones, M.~C.
 Chapman and Hall Ltd., London (1995).
 }
 \author{ Jorge Luis Ojeda Cabrera.
-}
-\seealso{ \link[locfit]{locpoly}} from package \pkg{KernSmooth},
-\code{\link{ksmooth}} and \code{\link{loess}} in \pkg{stats} (but from earlier package \code{modreg}).
-}
 \examples{
 N <- 100
 xeval <- 0:10/10
