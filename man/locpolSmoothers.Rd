@@ -57,7 +57,7 @@ Wand, M.~P. and Jones, M.~C.
 \emph{ Kernel smoothing\/}.
 Chapman and Hall Ltd., London (1995).
 }
-\author{ Jorge Luis Ojeda Cabrera.
+\author{ Jorge Luis Ojeda Cabrera. }
 \examples{
 N <- 100
 xeval <- 0:10/10
