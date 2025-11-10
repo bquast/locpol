@@ -1,13 +1,7 @@
-# new maintainer
+# not the maintained
 
-This package started giving an error with R devel
+Hello,
 
-I was alerted because I have a dependency that risked being archived (rddtools)
+I am not the maintainer, but I did submit the most recent version on CRAN: 0.8.0.
 
-I've fixed the C (now) "error"
-
-I've fixec the additional issues
-
-There is a note on me being a new maintainer
-
-There is a note on escaped LaTeX characters, this is correct
+I now fixed the current issue with link in the documentation files.

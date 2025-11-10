@@ -1,5 +1,5 @@
 Package: locpol
-Version: 0.8.0
+Version: 0.9.0
 Title: Kernel Local Polynomial Regression
 Authors@R: c(
     person("Jorge Luis", "Ojeda Cabrera", email="jojeda@unizar.es", role = c("aut", "cre")),
